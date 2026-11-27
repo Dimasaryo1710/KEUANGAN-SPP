@@ -1,0 +1,4 @@
+nim,jumlah,tanggal,status
+TI2026001,1000000,2026-11-27,paid
+EK2026001,500000,2026-11-27,confirmed
+TI2026002,500000,2026-11-27,pending
